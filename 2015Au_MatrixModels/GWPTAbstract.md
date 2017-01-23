@@ -1,0 +1,1 @@
+This talk starts with a toy hermitian 1-matrix model in order to gain some intuition about phase transitions in matrix models. It then discusses gauge fields on a 2-D lattice and we see that in the large-N limit, one finds a third-order phase transition even for finite volume lattices.
