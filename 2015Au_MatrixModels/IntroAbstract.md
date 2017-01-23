@@ -1,0 +1,3 @@
+In this talk, we will cover the basics of matrix models.  A historical overview of their development will be given starting with Wigner.  We will then cover the Dyson threefold way of classifying models based on the symmetries of the underlying theory.  In doing so, we will arrive at the three 'classic' Gaussian ensembles: Orthogonal (GOE), Unitary (GUE), and Symplectic (GSE).  Lastly, we will consider the simplest example of a matrix model: a single matrix GUE. In that setting, we will explore the saddle point techniques available to us in the large N limit, and by introducing an auxiliary function, the resolvent, we find that the GUE is solved by a semicircular eigenvalue distribution.
+
+Notes available upon request
