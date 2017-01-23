@@ -9,7 +9,7 @@ The PTJC officially corresponds to PHYS-582. Signing up for 1 credit requires at
 
 Former topics and notes can be found on the old PTJC site. Future notes, as they are provided, will be able to be found in this repository within the appropriate folder. 
 
-To contribute your notes, no knowledge of git is required: simply make a github account and request to be added to the list of collaborators for this repo. You can then upload your notes in PDF or .tex form. 
+To contribute your notes, no knowledge of git is required: simply make a github account and request to be added to the list of collaborators for this repo. You can then upload your notes in PDF or .tex form by going into the talk directory, clicking on 'Upload Files', and adding your content. Informative file names would be appreciated.
 
 Each quarter's directories will have an associated README with general topic information and links to references which will be used throughout the quarter. Feel free to edit this file and include any additional references you may have used for your talk.
 
