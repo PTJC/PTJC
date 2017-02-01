@@ -7,6 +7,8 @@ Our primary reference will be "Scattering Amplitudes in Gauge Theory and
 Gravity" by Henriette Elvang and Yu-Tin Huang, a preprint of which can be 
 found [here](https://arxiv.org/abs/1308.1697).
 
+Mike also suggested the following video lectures from [TASI](https://physicslearning.colorado.edu/tasi/tasi_2016/tasi_2016.html)
+
 The tentative talk list will be as follows:
 
 * 1/13: Introduction to Spinor Helicity and General Motivation, Peter
