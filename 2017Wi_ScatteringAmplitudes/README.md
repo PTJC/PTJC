@@ -1,4 +1,4 @@
-#Scattering Amplitudes
+# Scattering Amplitudes
 
 This quarter, we are investigating the spinor-helicity formalism 
 and modern on-shell methods for calculating scattering amplitudes.
