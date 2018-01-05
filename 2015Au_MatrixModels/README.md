@@ -1,4 +1,4 @@
-#Matrix Models
+# Matrix Models
 
 References: 
   - Marino, Marcos.  "Les Houches lectures on matrix models and topological strings." arxiv: hep-th/0410165
