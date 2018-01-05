@@ -18,6 +18,7 @@ The tentative talk list will be as follows:
 * 10/27: Fermion problems, Natalie
 * 11/3: Fermion solutions, Andrew
 * 11/17: Problems with fermion solutions/the sign problem, Isaac
+  * [Reference](https://arxiv.org/abs/1009.4089v2) 
 * 12/1: QCD and numerical results, Peter
 * 12/8: Instantons, Jesse
 * 12/15: Open bonus week
