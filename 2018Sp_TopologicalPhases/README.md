@@ -20,7 +20,7 @@ The talk list with references is as follows:
 
 • 5/18: Dualities - Tyler E
 
-• 6/8: Math definition of TQFTs and Turaev-Viro - John
+• 6/8: Mathematical foundations - John
 
 Grab bag topics:
 
