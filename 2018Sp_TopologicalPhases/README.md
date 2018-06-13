@@ -16,17 +16,11 @@ The talk list with references is as follows:
 
 • 5/4: free/fermion or bulk/bdry CS - Mike
 
-• 5/11: Dake
+• 5/11: Topological Entanglement Entropy - Dake
 
-• 5/18: Tyler E
-
-• 5/25: Peter
-
-• 6/1: Natalie
+• 5/18: Dualities - Tyler E
 
 • 6/8: Math definition of TQFTs and Turaev-Viro - John
-
-• 6/15: Jesse
 
 Grab bag topics:
 
