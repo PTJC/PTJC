@@ -1,7 +1,7 @@
 # PTJC
 Database for the UW Particle Theory Journal Club
 
-This repo is designed to replace the former PTJC [website](https://sharepoint.washington.edu/phys/wiki/ptjc/). Due to administrative issues in managing the old site, we have migrated our efforts to this open forum. Previous topics and notes can be found on the original site. Future notes, as they are provided, will be able to be found in this repository within the appropriate folder. 
+This org/repo is designed to replace the former PTJC [website](https://sharepoint.washington.edu/phys/wiki/ptjc/). Due to administrative issues in managing the old site, we have migrated our efforts to this open forum. Previous topics and notes can be found on the original site. Future notes, as they are provided, will be able to be found in this repository within the appropriate folder. 
 
 ## About
 
@@ -24,4 +24,4 @@ To contribute your notes, no knowledge of git is required: simply make a github 
 Each quarter's directories will have an associated README with general topic information and links to references which will be used throughout the quarter. Feel free to edit this file and include any additional references you may have used for your talk.
 
 ## Future-proofing
-Management of this repo will be continually transfered to the sitting PTJC head for posterity.
+Org owners with member management privileges will promote the new PTJC head as an owner, maintaining administrative control for posterity. 
