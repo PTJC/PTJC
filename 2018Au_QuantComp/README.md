@@ -8,6 +8,6 @@ The talk list is as follows:
 * 10/26: Potential applications of QC (Jesse) -- sign problems in QM/QFT, Trotterization and time evolution
 * 11/2: Quantum search algorithms (Gonzalo) -- Grover + ...
 * 11/9: Noise and quantum operators (Anthony)
-* 11/6: Topological quantum computing (Andrew)
+* 11/16: Topological quantum computing (Andrew)
 * 11/30: Grab bag (Peter)
 * 12/7: Grab bag (Dake)
