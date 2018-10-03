@@ -34,7 +34,7 @@ The talk list is as follows:
   
   Implementations of CNOT in a slew of QC architectures, maybe Hadamard too
 
-* 10/19: Quantum Fourier transform and applications (Tyler) -- (Mike & Ike Ch 5)
+* **10/19: Quantum Fourier transform and applications (Tyler) -- (Mike & Ike Ch 5)**
 
   Definition, construction, insight
   
@@ -44,12 +44,12 @@ The talk list is as follows:
   
   If time: Hidden subgroup problem
 
-* 10/26: Quantum simulation with QC (Jesse) 
+* **10/26: Quantum simulation with QC (Jesse)**
 
   Proposed applications, sign problems, Trotterization, state preparation, fermionic operators
 
-* 11/2: Quantum search algorithms (Gonzalo) -- Grover + ...
-* 11/9: Noise and quantum operators (Anthony)
-* 11/16: Topological quantum computing (Andrew)
-* 11/30: Grab bag (Peter)
-* 12/7: Grab bag (Dake)
+* **11/2: Quantum search algorithms (Gonzalo) -- Grover + ...**
+* **11/9: Noise and quantum operators (Anthony)**
+* **11/16: Topological quantum computing (Andrew)**
+* **11/30: Grab bag (Peter)**
+* **12/7: Grab bag (Dake)**
