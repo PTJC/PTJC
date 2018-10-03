@@ -2,7 +2,7 @@
 
 The talk list is as follows:
 
-* 10/5: Introduction (Sam) -- (Mike & Ike Ch 1) 
+* **10/5: Introduction (Sam) -- (Mike & Ike Ch 1)**
 
   Advertisements (e.g., Shor’s alg, Grover’s alg, Feynman’s proposal, quantum cryptography)
   
@@ -16,7 +16,7 @@ The talk list is as follows:
   
   Deutch’s alg, Deutsch-Jozsa alg
   
-* 10/12: Quantum circuit model (Huangyu) -- (Mike & Ike Ch 4 and ?)
+* **10/12: Quantum circuit model (Huangyu) -- (Mike & Ike Ch 4 and ?)**
   
   General single-qubit operations: decompositions, interpretations, common gates
   
