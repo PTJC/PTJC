@@ -48,8 +48,8 @@ The talk list is as follows:
 
   Proposed applications, sign problems, Trotterization, state preparation, fermionic operators
 
-* **11/2: Quantum search algorithms (Gonzalo) -- Grover + ...**
-* **11/9: Noise and quantum operators (Anthony)**
-* **11/16: Topological quantum computing (Andrew)**
-* **11/30: Grab bag (Peter)**
+* **11/2: Introduction to Quantum Info 1 (Gonzalo) -- Grover + ...**
+* **11/9: Introduction to Quantum Info 2 (Anthony)**
+* **11/16: Entanglement in QFT 1 (Andrew)**
+* **11/30: Entanglement in QFT 2 (Peter)**
 * **12/7: Grab bag (Dake)**
