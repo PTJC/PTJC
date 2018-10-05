@@ -48,8 +48,22 @@ The talk list is as follows:
 
   Proposed applications, sign problems, Trotterization, state preparation, fermionic operators
 
-* **11/2: Introduction to Quantum Info 1 (Gonzalo) -- Grover + ...**
+* **11/2: Introduction to Quantum Info 1 (Gonzalo)**
+
+  Shannon entropy, conditional entropy, relative entropy, quantum entropy. First three chapters of: https://arxiv.org/pdf/1805.11965.pdf
+
 * **11/9: Introduction to Quantum Info 2 (Anthony)**
+
+  Quantum teleportation and conditional entropy, quantum relative entropy and hypothesis testing, and encoding classical information in a quantum state. Fourth chapter: https://arxiv.org/pdf/1805.11965.pdf 
+
 * **11/16: Entanglement in QFT 1 (Andrew)**
+
+  Witten's second lecture of https://pitp.ias.edu/program-schedule-2018
+
 * **11/30: Entanglement in QFT 2 (Peter)**
-* **12/7: Grab bag (Dake)**
+  
+  Witten's second lecture of https://pitp.ias.edu/program-schedule-2018
+
+* **12/7: A c-theorem for the entanglement entropy (Dake)**
+
+  https://arxiv.org/pdf/cond-mat/0610375.pdf
