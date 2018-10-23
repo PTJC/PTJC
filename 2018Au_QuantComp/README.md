@@ -48,7 +48,7 @@ The talk list is as follows:
 
   Proposed applications, sign problems, Trotterization, state preparation, fermionic operators
 
-* **11/2: Introduction to Quantum Info 1 (Gonzalo)**
+* **11/2: Introduction to Quantum Info 1 (Raj)**
 
   Shannon entropy, conditional entropy, relative entropy, quantum entropy. First three chapters of: https://arxiv.org/pdf/1805.11965.pdf
 
