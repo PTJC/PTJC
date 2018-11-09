@@ -56,14 +56,14 @@ The talk list is as follows:
 
   Quantum teleportation and conditional entropy, quantum relative entropy and hypothesis testing, and encoding classical information in a quantum state. Fourth chapter: https://arxiv.org/pdf/1805.11965.pdf 
 
-* **11/16: Entanglement in QFT 1 (Andrew)**
+* **11/16: Entanglement in QFT 1 (Peter)**
 
   Witten's second lecture of https://pitp.ias.edu/program-schedule-2018
 
-* **11/30: Entanglement in QFT 2 (Peter)**
+* **11/30: Entanglement in QFT 2 (Dake)**
   
   Witten's second lecture of https://pitp.ias.edu/program-schedule-2018
 
-* **12/7: A c-theorem for the entanglement entropy (Dake)**
+* **12/7: A c-theorem for the entanglement entropy (Andrew)**
 
   https://arxiv.org/pdf/cond-mat/0610375.pdf
