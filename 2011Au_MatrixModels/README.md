@@ -1,30 +1,5 @@
 <title>Matrix Models - ParticleTheoryJC</title>
-		<style>
-</style>
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		<style>
-</style>
-		
-			
 
-	<div id="globalWrapper">
-		<div id="column-content">
-	<div id="content">
-		<a name="top" id="top"></a>
-				<h1 class="firstHeading">Matrix Models</h1>
-		<div id="bodyContent">
-			<h3 id="siteSub">From ParticleTheoryJC</h3>
-			<div id="contentSub"></div>
-			<p>References-
-</p>
 <ul><li>"Random Matrices" by Madan Lal Mehta, book
 </li>
 <li>"Quantum Geometry" By Ambjorn, Durhuus and Jonsson, book
