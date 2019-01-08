@@ -1,5 +1,4 @@
-<title>Critical Phenomena - ParticleTheoryJC</title>
-		
+
 <div id="globalWrapper">
 	<div id="column-content">
 <div id="content">
