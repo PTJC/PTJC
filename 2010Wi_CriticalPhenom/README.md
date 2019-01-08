@@ -1,13 +1,13 @@
 <title>Critical Phenomena - ParticleTheoryJC</title>
 		
-	<div id="globalWrapper">
-		<div id="column-content">
-	<div id="content">
-		<a name="top" id="top"></a>
-				<h1 class="firstHeading">Critical Phenomena</h1>
-		<div id="bodyContent">
-			<div id="contentSub"></div>
-			<dl><dt>Winter '10
+<div id="globalWrapper">
+	<div id="column-content">
+<div id="content">
+	<a name="top" id="top"></a>
+			<h1 class="firstHeading">Critical Phenomena</h1>
+	<div id="bodyContent">
+		<div id="contentSub"></div>
+		<dl><dt>Winter '10
 </dt></dl>
 <dl><dt>1/08 - Introduction to Critical Phenomena
 </dt></dl>
