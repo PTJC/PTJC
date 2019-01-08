@@ -4,7 +4,6 @@
 		<a name="top" id="top"></a>
 				<h1 class="firstHeading">Conformal Field Theory</h1>
 		<div id="bodyContent">
-			<h3 id="siteSub">From ParticleTheoryJC</h3>
 			<div id="contentSub"></div>
 			<p><b>Autumn '08</b>
 </p>
