@@ -1,20 +1,5 @@
 <title>Critical Phenomena - ParticleTheoryJC</title>
-		<style>
-</style>
 		
-		
-		
-		
-		
-		
-		
-		
-		
-		<style>
-</style>
-		
-			
-
 	<div id="globalWrapper">
 		<div id="column-content">
 	<div id="content">
