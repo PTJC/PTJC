@@ -7,7 +7,7 @@
 			<div id="contentSub"></div>
 
 
-			<p>Two good books that serve as a reference for all of these talks are "Thermal Field Theory" by Le Bellac and "Finite Temperature Field Theory" by Kapusta. Another good reference is "The Physics of the Quark-Gluon Plasma: Introductory Lectures" edited by S. Sarkar, H. Satz and B. Sinha. This book can be obtained electronically from the library. Also, there is an older rendition of this topic from 2005 - <a href="/ptjc/index.php/Thermal_field_theory" title="Thermal field theory">Thermal field theory</a>.
+<p>Two good books that serve as a reference for all of these talks are "Thermal Field Theory" by Le Bellac and "Finite Temperature Field Theory" by Kapusta. Another good reference is "The Physics of the Quark-Gluon Plasma: Introductory Lectures" edited by S. Sarkar, H. Satz and B. Sinha. This book can be obtained electronically from the library. Also, there is an older rendition of this topic from 2005 - <a href="/ptjc/index.php/Thermal_field_theory" title="Thermal field theory">Thermal field theory</a>.
 </p>
 <p><br /> 
 </p>
