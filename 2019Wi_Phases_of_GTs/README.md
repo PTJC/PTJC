@@ -5,10 +5,9 @@
 				<h1 class="firstHeading">Phases of Gauge Theories</h1>
 		<div id="bodyContent">
 			<div id="contentSub"></div>
-			<p><b>Winter 2019</b>
-</p>
+			<p><b>Winter 2019</b></p>
 
-Primary resources: 
+<dl><dt>Primary resources:</dt></dl> 
 David Tong's (DT) Gauge Theory notes: http://www.damtp.cam.ac.uk/user/tong/gaugetheory/1em.pdf
 Finite-Temperature Field Theory: Principles and Applications - Kapusta and Gale, good book for finite temperature YM and QCD
 QCD Phase Diagram: An Overview - https://arxiv.org/abs/hep-lat/0701002
