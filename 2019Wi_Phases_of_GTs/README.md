@@ -8,12 +8,13 @@
 			<p><b>Winter 2019</b></p>
 
 <dl><dt>Primary resources:</dt></dl> 
+<ul><li>
 David Tong's (DT) Gauge Theory notes: http://www.damtp.cam.ac.uk/user/tong/gaugetheory/1em.pdf
-
+<\li><li>
 Finite-Temperature Field Theory: Principles and Applications - Kapusta and Gale, good book for finite temperature YM and QCD
-
+<\li><li>
 QCD Phase Diagram: An Overview - https://arxiv.org/abs/hep-lat/0701002
-
+<\li><\ul>
 <dl><dt>Outline:</dt></dl> 
 
 1. 1/18 Jared - Introduction to phases in gauge theory. Yang-Mills and the flow to strong coupling (2.4 of DT)
