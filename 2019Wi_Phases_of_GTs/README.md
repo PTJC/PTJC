@@ -9,7 +9,9 @@
 
 <dl><dt>Primary resources:</dt></dl> 
 David Tong's (DT) Gauge Theory notes: http://www.damtp.cam.ac.uk/user/tong/gaugetheory/1em.pdf
+
 Finite-Temperature Field Theory: Principles and Applications - Kapusta and Gale, good book for finite temperature YM and QCD
+
 QCD Phase Diagram: An Overview - https://arxiv.org/abs/hep-lat/0701002
 
 <dl><dt>Outline:</dt></dl> 
