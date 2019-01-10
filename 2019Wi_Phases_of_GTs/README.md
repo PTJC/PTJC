@@ -12,6 +12,8 @@ David Tong's (DT) Gauge Theory notes: http://www.damtp.cam.ac.uk/user/tong/gauge
 Finite-Temperature Field Theory: Principles and Applications - Kapusta and Gale, good book for finite temperature YM and QCD
 QCD Phase Diagram: An Overview - https://arxiv.org/abs/hep-lat/0701002
 
+<dl><dt>Outline:</dt></dl> 
+
 1. 1/18 Jared - Introduction to phases in gauge theory. Yang-Mills and the flow to strong coupling (2.4 of DT)
 2. 1/25 Raj - Electric probes: Coulomb vs confining, analogies to superconductors - type 1, type 2, Bogomonlyi, confinement of monopoles (2.5 of DT)
 3. 2/1 Sam - More on probes: Regge trajectories, Wilson loops, magnetic probes - 't Hooft lines (2.6 of DT, no need to do SU(N) vs SU(N)/Z_N)
@@ -23,9 +25,9 @@ QCD Phase Diagram: An Overview - https://arxiv.org/abs/hep-lat/0701002
 9. 3/15 Andrew/Peter - 
 10. 3/22 Andrew/Peter?
 
-Grab bag:
+<dl><dt>Grab bag:</dt></dl> 
 - Finite isospin QCD - https://arxiv.org/abs/hep-ph/0011365
 - Phases on R^3 x S^1 - https://arxiv.org/abs/0803.0344
 
-Other Resources:
+<dl><dt>Other resources:</dt></dl> 
 Phases of QCD - https://arxiv.org/pdf/hep-ph/0509068.pdf -  an introduction to the phase structure of QCD
