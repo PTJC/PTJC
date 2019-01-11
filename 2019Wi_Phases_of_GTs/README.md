@@ -28,9 +28,12 @@ QCD Phase Diagram: An Overview - https://arxiv.org/abs/hep-lat/0701002
 9. 3/15 Andrew/Peter - 
 10. 3/22 Andrew/Peter?
 
-<dl><dt>Grab bag:</dt></dl> 
-- Finite isospin QCD - https://arxiv.org/abs/hep-ph/0011365
-- Phases on R^3 x S^1 - https://arxiv.org/abs/0803.0344
+<dl><dt>Grab bag:</dt></dl>
+<ul><li>
+Finite isospin QCD - https://arxiv.org/abs/hep-ph/0011365
+</li><li>
+Phases on R^3 x S^1 - https://arxiv.org/abs/0803.0344
+</li></ul>
 
 <dl><dt>Other resources:</dt></dl> 
 Phases of QCD - https://arxiv.org/pdf/hep-ph/0509068.pdf -  an introduction to the phase structure of QCD
