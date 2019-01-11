@@ -9,7 +9,7 @@
 
 <dl><dt>Primary resources:</dt></dl> 
 <ul><li>
-David Tong's (DT) Gauge Theory notes: http://www.damtp.cam.ac.uk/user/tong/gaugetheory/1em.pdf
+David Tong's (DT) Gauge Theory notes: http://www.damtp.cam.ac.uk/user/tong/gaugetheory.html
 </li><li>
 Finite-Temperature Field Theory: Principles and Applications - Kapusta and Gale, good book for finite temperature YM and QCD
 </li><li>
