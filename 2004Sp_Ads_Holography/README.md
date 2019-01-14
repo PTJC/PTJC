@@ -4,7 +4,6 @@
 		<a name="top" id="top"></a>
 				<h1 class="firstHeading">AdS and holography</h1>
 		<div id="bodyContent">
-			<h3 id="siteSub">From ParticleTheoryJC</h3>
 			<div id="contentSub"></div>
 			<p><b>Spring '04</b>
 </p>
