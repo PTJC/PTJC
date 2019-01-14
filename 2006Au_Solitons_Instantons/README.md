@@ -6,7 +6,7 @@
 		<div id="bodyContent">
 			<div id="contentSub"></div>
 
-			<p><b>Autumn '06</b>
+<p><b>Autumn '06</b>
 </p>
 <p>General references: "Aspects of Symmetry" by Sidney Coleman, "Solitons and Instantons" by R. Rajaraman.
 </p>
