@@ -2,7 +2,7 @@
 		<div id="column-content">
 	<div id="content">
 		<a name="top" id="top"></a>
-				<h1 class="firstHeading">Large N field theories I</h1>
+				<h1 class="firstHeading">Large N field theories</h1>
 		<div id="bodyContent">
 			<div id="contentSub"></div>
 			<p><b>Winter '04</b>
