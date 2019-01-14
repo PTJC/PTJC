@@ -2,7 +2,7 @@
 		<div id="column-content">
 	<div id="content">
 		<a name="top" id="top"></a>
-				<h1 class="firstHeading">Cosmology I</h1>
+				<h1 class="firstHeading">Cosmology</h1>
 		<div id="bodyContent">
 			<div id="contentSub"></div>
 			<p><b>Autumn '03</b>
