@@ -2,9 +2,8 @@
 		<div id="column-content">
 	<div id="content">
 		<a name="top" id="top"></a>
-				<h1 class="firstHeading">Large N field theories II</h1>
+				<h1 class="firstHeading">Large N field theories</h1>
 		<div id="bodyContent">
-			<h3 id="siteSub">From ParticleTheoryJC</h3>
 			<div id="contentSub"></div>
 			<p><b>Winter '08</b>
 </p>
