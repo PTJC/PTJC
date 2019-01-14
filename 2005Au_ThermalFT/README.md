@@ -6,8 +6,8 @@
 		<div id="bodyContent">
 			<div id="contentSub"></div>
 
-			<p><b>Autumn '05</b>
-</p>
+<p><b>Autumn '05</b></p>
+
 <pre>     Friday, October 7, 2005
      2:30 C421 Physics & Astronomy Bldg.
      Chris Spitzer
