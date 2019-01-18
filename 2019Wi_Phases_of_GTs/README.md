@@ -34,7 +34,7 @@ Finite isospin QCD - https://arxiv.org/abs/hep-ph/0011365
 </li><li>
 Phases on R^3 x S^1 - https://arxiv.org/abs/0803.0344
 </li><li>
-Perturbative high temperature YM/QCD - https://arxiv.org/abs/hep-ph/9501375 and https://arxiv.org/abs/hep-ph/9510408.
+Perturbative high temperature YM/QCD - https://arxiv.org/abs/hep-ph/9501375 and https://arxiv.org/abs/hep-ph/9510408. More modern review see https://arxiv.org/abs/1701.01554.
 </li><li>	
 Confinement/Deconfinement Transition - Critical Behavior at Finite Temperature Confinement Transitions - Svetitsky, Yaffe. Also: Remarks on the Chiral Phase Transition in Chromodynamics - Pisarski, Wilczek.
 </li><li>	
