@@ -38,17 +38,21 @@ References - Kapusta, Finite Temperature Field Theory.
 
 <dl><dt>Confinement/Deconfinement Transition, 10/11
 </dt></dl>
-Speaker - Derek Horkel
+<ul><li>Speaker - Derek Horkel
+</li><li>
 Outline
 QCD Phase Diagram Overview
 QCD Beta Function
 Strong Coupling Expansion of Wilson Loop
 Thermal Pure Gauge QCD
 Introduction of Quarks
+</li><li>
 Notes - Here (More legible notes available upon request)
+</li><li>
 References
 Quantum Chromodynamics on the Lattice, Christof Gattringer and Christian B. Lang
 Phases of Gauge Theories, Michael C. Ogilvie arXiv:1211.2843
+</li></ul>
 
 <dl><dt>Restoration of Chiral Symmetry at High Temperature, 10/18
 </dt></dl>
