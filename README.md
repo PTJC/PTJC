@@ -1,7 +1,9 @@
 # PTJC
 Database for the UW Particle Theory Journal Club
 
-This org/repo is designed to replace the former PTJC [website](https://sharepoint.washington.edu/phys/wiki/ptjc/). Due to administrative issues in managing the old site, we have migrated our efforts to this open forum. Previous topics and notes can be found on the original site. Future notes, as they are provided, will be able to be found in this repository within the appropriate folder. 
+This org/repo is designed to replace the former PTJC [website](https://sharepoint.washington.edu/phys/wiki/ptjc/), which unfortunately was taken down without importing all the old outlines. Although we have been relatively successful in recovering the old ata, some previous outlines/talks are still missing. If you know how to access said files, please get in contact! 
+
+Future notes, as they are provided, will be able to be found in this repository within the appropriate folder. 
 
 ## About
 
