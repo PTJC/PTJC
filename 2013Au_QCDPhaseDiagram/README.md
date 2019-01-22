@@ -5,11 +5,10 @@
 			<h1 class="firstHeading">QCD Phase Diagram</h1>
 	<div id="bodyContent">
 		<div id="contentSub"></div>
-		<dl><dt>Autumn '13
+		<dl><dt>Autumn '13</dt></dl>
 
 This quarter we will discuss the QCD phase diagram. A short overview is given here, and a more in depth review is given here. Also check out these conference slides. Previous PTJC references (e.g. from Finite Temperature QFT, Critical Phenomena, Confinement, Color Superconductivity, Thermal Field Theory, and Phases of Gauge Theories) may be useful.
 
-</dt></dl>
 <dl><dt>Introduction to Phase Transitions, 9/27
 </dt></dl>
 <ul><li>Speaker - Seyda Ipek
