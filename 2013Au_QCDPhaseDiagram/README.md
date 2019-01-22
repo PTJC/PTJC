@@ -1,11 +1,25 @@
+<div id="globalWrapper">
+	<div id="column-content">
+<div id="content">
+	<a name="top" id="top"></a>
+			<h1 class="firstHeading">QCD Phase Diagram</h1>
+	<div id="bodyContent">
+		<div id="contentSub"></div>
+		<dl><dt>Autumn '13
+
 This quarter we will discuss the QCD phase diagram. A short overview is given here, and a more in depth review is given here. Also check out these conference slides. Previous PTJC references (e.g. from Finite Temperature QFT, Critical Phenomena, Confinement, Color Superconductivity, Thermal Field Theory, and Phases of Gauge Theories) may be useful.
 
-
-Introduction to Phase Transitions, 9/27
-Speaker - Seyda Ipek
+</dt></dl>
+<dl><dt>Introduction to Phase Transitions, 9/27
+</dt></dl>
+<ul><li>Speaker - Seyda Ipek
+</li><li>
 Abstract - I will start with a quick and very formal description of phase transitions, and jump into the Ising Model right away. Ising Model does not have a phase transition in 1-dimension at finite temperature, however there is a phase transition in 2-dimensions. Using these phase transitions as examples, we will see how renormalization group works, and how one can map out the whole phase diagram of a system using renormalization group flow.
+</li><li>
 Notes - Here
+</li><li>
 References - Lectures on Phase Transitions and the Renormalization Group, Nigel Goldenfeld
+</li></ul>
 
 Introduction to Finite Temperature and Density QFT, 10/4
 Speaker - Mackenzie Barton-Rowledge
