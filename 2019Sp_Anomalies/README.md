@@ -6,6 +6,14 @@
 		<div id="bodyContent">
 			<div id="contentSub"></div>
 			<p><b>Spring 2019</b></p>
+			
+<dl><dt>Primary resources:</dt></dl> 
+<ul><li>
+https://arxiv.org/pdf/0802.0634.pdf —slightly more intense/in depth 
+</li><li>
+https://arxiv.org/pdf/hep-th/0509097.pdf — more readable, but less content 
+</li></ul>
+<dl><dt>Outline:</dt></dl>
 
 1. 4/12 Anothony - Introduction: Anomalies in QM - https://arxiv.org/abs/quant-ph/0202091
 2. 4/19 Dake - Introduction to Anomalies in QFT. Triangle Diagrams and its one Loop exactness - Schwartz (Ch. 30, through 30.2), supplement with Srednicki
