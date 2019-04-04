@@ -23,7 +23,7 @@
 <ul><li>
 Anomalies and duality
 </li><li>
-Gravitational (framing) anomalie
+Gravitational (framing) anomalies
 </li><li>
 Anamolous transport
 </li><li>	
