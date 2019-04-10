@@ -21,6 +21,8 @@
 
 <dl><dt>Grab bag:</dt></dl>
 <ul><li>
+'t Hooft Anomaly matching
+</li><li>	
 Anomalies and duality
 </li><li>
 Gravitational (framing) anomalies
