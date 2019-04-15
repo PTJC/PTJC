@@ -12,12 +12,12 @@
 1. 4/12 Anothony - Introduction: Anomalies in QM - https://arxiv.org/abs/quant-ph/0202091
 2. 4/19 Dake - Introduction to Anomalies in QFT. Triangle Diagrams and its one Loop exactness - Schwartz (Ch. 30, through 30.2), supplement with Srednicki
 3. 4/26 Huangyu - More on the chiral anomaly - Fujikawa method. Non-Abelian generalization and anomalies of the SM - Schwartz (Ch. 30, 30.3 and 30.4), supplement with Srednicki
-4. 5/3 Sam - Introduction to anomaly inflow, Chern-Simons terms and the chiral anomaly - https://arxiv.org/abs/0912.2560 (only continuum parts) or Shifman
+4. 5/3 Stephan - Introduction to anomaly inflow, Chern-Simons terms and the chiral anomaly - https://arxiv.org/abs/0912.2560 (only continuum parts) or Shifman
 5. 5/10 Raj - Math of anomalies 1 - Review of form notation, descent equations (8.3 of https://arxiv.org/pdf/0802.0634.pdf).
-6. 5/17 Kyle - Math of anomalies 2 - Wess-Zumino consistency condition, BRST cohomology, descent equations (Ch. 9 of https://arxiv.org/pdf/0802.0634.pdf)
+6. 5/17 Sam - Math of anomalies 2 - Wess-Zumino consistency condition, BRST cohomology, descent equations (Ch. 9 of https://arxiv.org/pdf/0802.0634.pdf)
 7. 5/24 Hao - Anomalies in string theory
-8. 5/31 Open 
-9. 6/7 Open
+8. 5/31 Tyler  
+9. 6/7 Kyle
 
 <dl><dt>Grab bag:</dt></dl>
 <ul><li>
