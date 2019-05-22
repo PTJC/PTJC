@@ -15,9 +15,9 @@
 4. 5/3 Stephan - Introduction to anomaly inflow, Chern-Simons terms and the chiral anomaly - https://arxiv.org/abs/0912.2560 (only continuum parts) or Shifman
 5. 5/10 Raj - Math of anomalies 1 - Review of form notation, descent equations (8.3 of https://arxiv.org/pdf/0802.0634.pdf).
 6. 5/17 Sam - Math of anomalies 2 - Wess-Zumino consistency condition, BRST cohomology, descent equations (Ch. 9 of https://arxiv.org/pdf/0802.0634.pdf)
-7. 5/24 Hao - Anomalies in string theory
-8. 5/31 Tyler  
-9. 6/7 Kyle
+7. 5/24 Hao - Anomalies, Zero Modes of Dirac Operator and Index Theorem
+8. 5/31 Kyle - Discrete Anomalies  
+9. 6/7 Tyler
 
 <dl><dt>Grab bag:</dt></dl>
 <ul><li>
