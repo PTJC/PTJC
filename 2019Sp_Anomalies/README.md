@@ -16,8 +16,8 @@
 5. 5/10 Raj - Math of anomalies 1 - Review of form notation, descent equations (8.3 of https://arxiv.org/pdf/0802.0634.pdf).
 6. 5/17 Sam - Math of anomalies 2 - Wess-Zumino consistency condition, BRST cohomology, descent equations (Ch. 9 of https://arxiv.org/pdf/0802.0634.pdf)
 7. 5/24 Hao - Anomalies, Zero Modes of Dirac Operator and Index Theorem
-8. 5/31 Kyle - Discrete Anomalies  
-9. 6/7 Tyler
+8. 5/31 No talk  
+9. 6/7 Tyler E
 
 <dl><dt>Grab bag:</dt></dl>
 <ul><li>
