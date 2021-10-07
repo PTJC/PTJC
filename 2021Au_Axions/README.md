@@ -1,12 +1,15 @@
+**
+**Axions and Vacuum structure of Gauge theories****
 
-Axions and Vacuum structure of Gauge theories
-Primary sources:
+**Primary sources:**
+
 TASI Lectures on the Strong CP Problem and Axions, Anson Hook: https://arxiv.org/abs/1812.02669
 The Strong CP problem and Axions, R.D Peccei: https://arxiv.org/abs/hep-ph/0607268v1
 David Tong: Lectures on Gauge Theory: https://www.damtp.cam.ac.uk/user/tong/gaugetheory.html
 Axion Cosmology, David J.E. Marsh: https://arxiv.org/abs/1510.07633
 Topology of cosmic domains and strings，Kibble: https://iopscience.iop.org/article/10.1088/0305-4470/9/8/029
 Cosmic Strings, Hindmarsh and Kibble: https://iopscience.iop.org/article/10.1088/0034-4885/58/5/001
+ 
  
 Outline:
 10/15  
