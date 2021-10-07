@@ -13,11 +13,19 @@ Cosmic Strings, Hindmarsh and Kibble: https://iopscience.iop.org/article/10.1088
  
 Outline:
 10/15  
+
 10/22  Caio: The U(1)A Problem and Its Resolution, theta vacua of QCD. Strong CP problem and the axion solution. The theory of pions and neutrons.
+
 10/29  
+
 11/5 Anthony: Topology of cosmic domains and strings. Kibble mechanism. The domain wall problem.
+
 11/12 
+
 11/19 Roland: The formation and evolution of cosmic strings. Scaling solution.
+
 11/26 Thanksgiving
+
 12/3  Zach, axion strings are superconducting. 
+
 12/10 Huangyu, The axion quality problem. Quantum gravity breaks global symmetry.
